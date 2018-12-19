@@ -1,0 +1,82 @@
+.banner {
+  background: url('http://www.215chin.com.tw/upload/banner_ins_list/d483d81cb1d154a8e6c3587e8c538ff9.jpg');
+  background-size: 100% 200px;
+  height: 200px;
+}
+
+.mainTitle {
+  font-size: 60px;
+  font-family: cursive;
+  font-weight: bolder;
+  text-align: center;
+  padding-left: 120px;
+  padding-top: 40px;
+}
+
+nav {
+  margin-top: -19px;
+}
+
+.leftpetsIcon {
+  margin-left: 20px;
+}
+
+.searchIcon {
+  margin-right: 20px;
+}
+
+.genderRadio {
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+.clientForm {
+  margin-top: 40px;
+}
+
+.personalCard {
+  margin-top: 30px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.clientsContent {
+  height: 180px;
+}
+
+.animalContent {
+  height: 200px;
+}
+
+.clientBl {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.name {
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.size {
+  padding-left: 36px;
+}
+
+.imgArea {
+  margin-left: 15px;
+  padding-bottom: 20px;
+}
+
+.mainPage {
+  font-size: 40px;
+  font-family: 'Comic Sans MS';
+  margin-top: 60px;
+  margin-bottom: 20px;
+  color: orange;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+/*.addClientFrame {
+  background-image: url('http://pic.58pic.com/58pic/13/73/29/62y58PICn43_1024.jpg');
+  height: 500px;
+}*/
